@@ -1,0 +1,18 @@
+[
+    {
+      "name": "Maçã",
+      "price": 3.5,
+      "color": "Vermelha"
+    },
+    {
+      "name": "Banana",
+      "price": 2.0,
+      "color": "Amarela"
+    },
+    {
+      "name": "Laranja",
+      "price": 4.0,
+      "color": "Laranja"
+    }
+  ]
+  
